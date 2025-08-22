@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Circle FTP Playlist Maker (Ultimeate)
+// @name         Circle FTP Playlist Maker (Ultimate)
 // @namespace    http://tampermonkey.net/
 // @version      7.0
 // @description  Collects links on Circle FTP and creates a XPF playlist for VLC
