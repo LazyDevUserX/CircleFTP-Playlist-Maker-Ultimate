@@ -6,6 +6,8 @@
 // @author       LazyDevUserX
 // @match        http://15.1.1.50/*
 // @match        http://new.circleftp.net/*
+// @downloadURL  https://raw.githubusercontent.com/LazyDevUserX/CircleFTP-Playlist-Maker-Ultimate/main/userscript/circle-ftp-playlist-maker-ultimate.user.js
+// @updateURL    https://raw.githubusercontent.com/LazyDevUserX/CircleFTP-Playlist-Maker-Ultimate/main/userscript/circle-ftp-playlist-maker-ultimate.user.js
 // @grant        none
 // ==/UserScript==
 (function () {
