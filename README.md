@@ -3,6 +3,11 @@
 🚀 The **Ultimate Edition** of the Circle FTP Playlist Maker userscript.  
 Collects media links from CircleFTP and generates **XSPF playlists** with a **modern, animated UI** for the best experience. Recomended for modern devices. For older hardware try the lite version.
 
+[![Install Script](https://img.shields.io/badge/Install%20Script-green.svg)](userscript/circle-ftp-playlist-maker-ultimate.user.js?raw=1)
+![Version](https://img.shields.io/badge/version-7.0-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-orange.svg)
+
+
 ---
 
 ## ✨ Features
