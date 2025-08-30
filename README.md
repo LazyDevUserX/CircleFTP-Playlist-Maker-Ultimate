@@ -22,7 +22,8 @@ Collects media links from CircleFTP and generates **XSPF playlists** with a **mo
 ---
 
 ## 🖼️ Screenshots
-*(optional – you can add screenshots or GIFs of the floating UI here)*  
+![Script In Action](https://github.com/user-attachments/assets/4c57dc46-d53f-4761-a0c0-3b6c771c64a2)
+
 
 ---
 
